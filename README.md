@@ -1,2 +1,2 @@
-# Installer-HyTech-ODBC-DSN
+# Installer-HyTech-ODBC + DSN
 Автоматическач установка драйвера и создание DSN 
